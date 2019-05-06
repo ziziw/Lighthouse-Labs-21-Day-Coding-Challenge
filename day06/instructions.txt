@@ -1,0 +1,4 @@
+## Challenge #6
+"NAVIGATION SYSTEM needed," LARRY tells you. Navigation is important - you can't move through space without it!
+
+Use your already-defined methods and load in the "navigation" module. It's pretty simple once you have the functions to do it, and LARRY's eyes are finally easing from red back to normal.
